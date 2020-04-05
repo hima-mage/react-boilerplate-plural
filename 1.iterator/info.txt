@@ -1,0 +1,5 @@
+what is exactly iterable ? 
+- must implement iterable methods
+- symbol iterator is  a well known js symbol to define the best iterable for an object
+- for -- of only for iterable objects 
+- for -- in only iterate in enumerable properties

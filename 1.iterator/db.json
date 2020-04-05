@@ -1,0 +1,33 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "apple",
+      "calories": 88,
+      "serving_size": 6,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 2,
+      "name": "banana",
+      "calories": 44,
+      "serving_size": 6,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 3,
+      "name": "chicken",
+      "calories": 150,
+      "serving_size": 6,
+      "serving_size_units": "oz"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "ibrahim",
+      "lastname": "ahmed",
+      "email": "sam@sam.com"
+    }
+  ]
+}
